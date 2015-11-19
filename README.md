@@ -94,6 +94,7 @@ What it sets up
 [The Silver Searcher]: https://github.com/ggreer/the_silver_searcher
 [Tmux]: http://tmux.sourceforge.net/
 [Zsh]: http://www.zsh.org/
+[Vim]: http://www.vim.org/
 
 It should take less than 15 minutes to install (depends on your machine).
 
